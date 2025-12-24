@@ -2,7 +2,7 @@
 
 A revolutionary **Android app development tool** for instantly previewing code output on your device. Write code in any editor—**VSCode, PyCharm, Cursor, Sublime Text**—and see your changes reflected live on your Android app, without manual builds or USB debugging.
 
-![Live Code Emulator Banner](path_to_your_banner_image.png)
+![Live Code Emulator Banner](images/Emulator.png)
 
 ---
 
